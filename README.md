@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/e86be58bc09dfba470cbc.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/322d029fb98bdcb05a51f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">IKAWA MD</h1>
 <p align="center">
