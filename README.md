@@ -12,14 +12,14 @@
 <p align="center">
 <a href="https://github.com/IkawaTeam"><img title="Author" src="https://img.shields.io/badge/AUTHOR-IkawaChan-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<a href="https://github.com/BaraXD/KannaBOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BaraXD/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/BaraXD/KannaBOT-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BaraXD/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/BaraXD/KannaBOT-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/BaraXD/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/BaraXD/KannaBOT-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/BaraXD/KannaBOT-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/BaraXD/KannaBOT-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/BaraXD/KannaBOT-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/BaraXD/KannaBOT-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/BaraXD/KannaBOT-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/BaraXD/KannaBOT-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/BaraXD/KannaBOT-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/BaraXD/KannaBOT-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BaraXD/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/Ikawa-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LionSuzune/Ikawa-Md?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/Ikawa-Md/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/LionSuzune/Ikawa-Md?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/Ikawa-Md/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/LionSuzune/Ikawa-Md?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/Ikawa-Md/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/LionSuzune/Ikawa-Md?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/Ikawa-Md/issues"><img title="Issues" src="https://img.shields.io/github/issues/LionSuzune/Ikawa-Md?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/Ikawa-Md/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/LionSuzune/Ikawa-Md?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/Ikawa-Md/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/LionSuzune/Ikawa-Md?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/Ikawa-Md/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/LionSuzune/Ikawa-Md?label=PullRequest&color=red&style=flat-square"></a>
 
 ---------
 
