@@ -1,16 +1,16 @@
 <p align="center">
     <img src="https://telegra.ph/file/e86be58bc09dfba470cbc.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">ZukaV2</h1>
+<h1 align="center">IKAWA MD</h1>
 <p align="center">
-  <a href="https://github.com/BaraXD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=ZukaV2;Base+ori+by+BochilGaming;Recode+By+Zuka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/IkawaTeam"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=ZukaV2;Base+ori+by+BochilGaming;Recode+By+Zuka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="Zuka" src="https://img.shields.io/badge/BotzzMee-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="IKAWA CHAN" src="https://img.shields.io/badge/BotzzMee-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/BaraXD"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Zuka-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/IkawaTeam"><img title="Author" src="https://img.shields.io/badge/AUTHOR-IkawaChan-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <a href="https://github.com/BaraXD/KannaBOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BaraXD/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/BaraXD/KannaBOT-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BaraXD/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
@@ -21,17 +21,6 @@
 <a href="https://github.com/BaraXD/KannaBOT-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/BaraXD/KannaBOT-MD?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/BaraXD/KannaBOT-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BaraXD/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
 
----------
-## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6283174508962">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@lampu_slebew">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/lampu_philips267">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
 ---------
 
 ## ```Whatsapp``` <a href="https://wa.me/6283174508962"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
@@ -49,23 +38,6 @@
 | **Button template** |[✔️](https://github.com/BaraXD) |
 | **Multi Device** |[✔️](https://github.com/BaraXD) |
 ---------
-#### FITUR 📍
-| Fitur | Check |
-|--------|--------|
-| **Downloader** |[✔️](https://github.com/BaraXD) |
-| **Internet** |[✔️](https://github.com/BaraXD) |
-| **Game Rpg** |[✔️](https://github.com/BaraXD) |
-| **Nsfw** |[✖️](https://github.com/BaraXD) |
-| **Sticker** |[✔️](https://github.com/BaraXD) |
-| **Game** |[✔️](https://github.com/BaraXD) |
-| **Kerang Ajaib** |[✔️](https://github.com/BaraXD) |
-| **Quotes** |[✔️](https://github.com/BaraXD) |
-| **Anime** |[✔️](https://github.com/BaraXD) |
-| **Premium** |[✖️](https://github.com/BaraXD) |
-| **Tools** |[✔️](https://github.com/BaraXD) |
-| **Exec** |[✔️](https://github.com/BaraXD) |
-| **React** |[✔️](https://github.com/BaraXD) |
----------
 
 ## `SETTING`
 
@@ -73,15 +45,6 @@
 - Owner Name [Here](https://github.com/BaraXD/kannabot-md/blob/multi-device/config.js#L1)
 - Bot Name [Here](https://github.com/BaraXD/kannabot-md/blob/multi-device/config.js#L1)
 ---------
-
-## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BaraXD/KannaBOT-MD)
-
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
-
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
@@ -90,20 +53,11 @@ $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
 $ cd /sdcard
-$ cd ZukaV2
+$ cd Ikawa-Md
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/BaraXD/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
-```bash
 $ node .
 ```
-
-#### If npm install failed, try using yarn instead of npm
-```bash
-$ pkg install yarn -y
-$ yarn install
-```
----------
 
 ## TERMUX WITH UBUNTU
 
