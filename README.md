@@ -164,7 +164,7 @@ Set prefix
 * [`BochilGaming`](https://github.com/bochilgaming)
 
 ## ```Recode By 🐾```
-[![kannachann](https://github.com/BaraXD.png?size=100)](https://github.com/BaraXD)
+[![kannachann](https://github.com/LionSuzune.png?size=100)](https://github.com/LionSuzune)
 
 ## ```Contributor 🔭```
 * [`SadBOY01`](https://github.com/sadboy01)
