@@ -106,10 +106,10 @@ node .
 
 
 ### 📮 S&K
-1. Jangan diperjual belikan Script ini
-2. Sebelum pakai jangan lupa kasih star
-3. Follow Github !
-4. Jangan salah gunakan script ini!
+1. Dilarang make sembaraan! harus minta izin ke owner
+2. follow github saya
+3. jangan lupa start
+4. jika error bnerin anj, dan gak usah uabh2 sc nya. tinggal ganti owner/botnya di config.js :>
 
 ---------
 
