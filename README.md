@@ -115,17 +115,16 @@ node .
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/BaraXD)
-* [`My parents`](https://github.com/BaraXD)
-* [`All Friends`](https://github.com/BaraXD)
-* [`All Contributors`](https://github.com/BaraXD)
-* [`All Creator Bot`](https://github.com/BaraXD)
+* [`IKAWA TEAM`](https://github.com/IkawaTeam)
+* [`JULIAN CHAN`](https://github.com/JulianZuikaku)
+* [`SASHA CHAN`](https://github.com/LyliaSasha)
+* [`UZUI`](https://github.com/LionSuzune)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
 
 ## ```Recode By 🐾```
-[![kannachann](https://github.com/LionSuzune.png?size=100)](https://github.com/LionSuzune)
+[![Uzui Chan](https://github.com/LionSuzune.png?size=100)](https://github.com/LionSuzune)
 
 ## ```Contributor 🔭```
 * [`SadBOY01`](https://github.com/sadboy01)
