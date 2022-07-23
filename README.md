@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">IKAWA MD</h1>
 <p align="center">
-  <a href="https://github.com/IkawaTeam"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=IkawaChan;Base+ori+by+BochilGaming;Recode+By+IkawaChab;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/IkawaTeam"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=IKAWA TEAM;Base+ori+by+BochilGaming;Recode+By+IKAWATEAM;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
