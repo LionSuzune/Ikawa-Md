@@ -41,9 +41,9 @@
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/BaraXD/kannabot-md/blob/multi-device/config.js#L1)
-- Owner Name [Here](https://github.com/BaraXD/kannabot-md/blob/multi-device/config.js#L1)
-- Bot Name [Here](https://github.com/BaraXD/kannabot-md/blob/multi-device/config.js#L1)
+- Owner Number [Here](https://github.com/LionSuzune/Ikawa-Md/blob/master/config.js)
+- Owner Name [Here](https://github.com/LionSuzune/Ikawa-Md/blob/master/config.js)
+- Bot Name [Here](https://github.com/LionSuzune/Ikawa-Md/blob/master/config.js)
 ---------
 ## TERMUX USER
 ```bash
@@ -101,45 +101,6 @@ npm update
 ```bash
 node .
 ```
-
----------
-
-## ```Arguments node . [--options] [<session name>]```
-
-## `--self`
-* Activate self mode (Ignores other)
-
-## `--pconly`
-* If that chat not from private bot, bot will ignore
-
-## `--gconly`
-* If that chat not from group, bot will ignore
-
-## `--swonly`
-* If that chat not from status, bot will ignore
-
-## `--prefix <prefixes>`
-* `prefixes` are seperated by each character
-Set prefix
-
-## `--server`
-* Used for [heroku](https://heroku.com/) or scan through website
-
-## `--restrict`
-* Enables restricted plugins (which can lead your number to be **banned** if used too often)
-* Group Administration `add, kick`
-
-## `--img`
-* Enable image inspector through terminal
-
-## `--autoread`
-* If enabled, all incoming messages will be marked as read
-
-## `--nyimak`
-* No bot, just print received messages and add users to database
-
-## `--test`
-* **Development** Testing Mode
 
 ---------
 
